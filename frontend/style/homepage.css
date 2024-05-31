@@ -1,0 +1,150 @@
+
+.navbar{
+    background-color: #fff;
+    border-bottom: 1px solid #2a2a2a;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.navbar-brand{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-link{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* Hero-section */
+.hero-banner{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.hero-brand{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+}
+.hero-mood{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+.btn-cta{
+    border-radius: 4px;
+    width: 200px;
+    height: 60px;
+    font-family: "Jost", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #1F1E1E;
+}
+.btn-cta:hover{
+    color: #fff;
+}
+.hero-img{
+    margin-left: 300px;
+    user-select: none;
+    pointer-events: none;
+}
+
+/* categories */
+.categories{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.categories h1{
+    font-family: "Jost",sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+/* brands */
+.brands{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.brands h1{
+    font-family: "Jost",sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+/* new-product */
+.new-product{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.new-product h1{
+    font-family: "Raleway";
+    font-size: 30px;
+    font-weight: 700;
+}
+.product-tag{
+    margin-top: 20px;
+    font-family: "Poppins";
+    font-size: 16px;
+    color: #A33131;
+    font-weight: 500;
+}
+.product-name a{
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    color: #1F1E1E;
+}
+.product-price a{
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    color: #1F1E1E;
+}
+
+/* footer */
+footer{
+    margin-top: 80px;
+}
+.footer{
+    padding-top: 60px;
+    background-color: #1F1E1E;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+.foot-label{
+    font-family: "Roboto Condensed";
+    font-size: 25px;
+    color: #fff;
+    font-weight: 600;
+}
+li.foot-item{
+    color: #fff;
+    list-style-type: none;
+}
+.foot-item a{
+    font-family: "Roboto Condensed";
+    font-size: 16px;
+    color: #fff;
+    font-weight: 300;
+}
+.copyright{
+    border-top: 1px solid #fff;
+    background-color: #1F1E1E;
+    height: 60px;
+}
+.copyright p{
+    margin-top: 15px;
+    font-family: "Roboto Condensed";
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+.copyright p a{
+    color: #fff;
+}
